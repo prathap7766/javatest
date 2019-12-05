@@ -4,7 +4,7 @@ public class HelloWorld {
     System.out.println("Hello, Naresh");
     System.out.println("Hello, Suresh");
     System.out.println("Hello, Ramesh");
-    Syetem.out.println("Hello, Pratap");
+    System.out.println("Hello, Pratap");
     System.out.println("Hello, Jana");
   }
 }
